@@ -17,7 +17,7 @@ namespace MBTS.Models
             return userIdentity;
         }
     }
-    //test
+    
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
