@@ -8,7 +8,6 @@ namespace MBTS.Controllers
 {
     public class HomeController : Controller
     {
-        //Test comment
         public ActionResult Index()
         {
             return View();
